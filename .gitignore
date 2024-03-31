@@ -1,0 +1,5 @@
+_IGNORE_session/
+.vscode/
+node_modules/
+session.data.json
+SMS_WA.data.json
